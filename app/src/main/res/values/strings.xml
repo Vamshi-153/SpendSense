@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpendSense</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="default_web_client_id">504303192174-82g6auvfkgtaitvn2787nhmacjerariu.apps.googleusercontent.com</string>
+    <string name="default_notification_channel_id">default_channel</string>
+</resources>

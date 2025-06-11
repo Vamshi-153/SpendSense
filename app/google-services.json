@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "504303192174",
+    "firebase_url": "https://spendsense-78734-default-rtdb.firebaseio.com",
+    "project_id": "spendsense-78734",
+    "storage_bucket": "spendsense-78734.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504303192174:android:ed784da5f59cb4a81bfe7f",
+        "android_client_info": {
+          "package_name": "com.example.spendsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXts9GELAi54onH88-Rm2tN9eI0lYXTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
